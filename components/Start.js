@@ -20,7 +20,7 @@ const Start = ({ navigation }) => {
 
     return (
         <ImageBackground source={backgroundImage} style={styles.background}>
-            <Text style={styles.title}>Chat App</Text>
+            <Text style={styles.title}>ChatApp</Text>
             <View style={styles.box}>
                 <TextInput
                     style={styles.input}
